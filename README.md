@@ -26,7 +26,7 @@ This project uses an **Arduino Uno** to read temperature data from a **TMP36 sen
 ## 📺 Circuit Diagram
 Here is the schematic diagram for connecting the TMP36 sensor and LEDs to the Arduino:
 
-![Circuit Diagram](TMP36 Temperature Sensor With Arduino.png)
+![Circuit Diagram](./circuit-diagram.png)
 
 
 
@@ -107,4 +107,4 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
-Created by [Your Name]. Feel free to contribute or suggest improvements to the project!
+Created by [Jood]. Feel free to contribute or suggest improvements to the project!
